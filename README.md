@@ -33,8 +33,8 @@ Ankieta obejmowała między innymi następujące obszary:
 ## Wykorzystane narzędzia
 
 - Google Forms – przygotowanie ankiety i zbieranie odpowiedzi, 
-- prezentacja multimedialna – opracowanie wyników i wizualizacja danych,
-- wykresy kołowe – przedstawienie rozkładu odpowiedzi dla poszczególnych pytań. 
+- Canva - prezentacja,
+- Excel - wykresy – przedstawienie rozkładu odpowiedzi dla poszczególnych pytań. 
 
 ## Mój wkład
 
@@ -56,8 +56,11 @@ W ramach projektu odpowiadałem za:
 ## Zawartość repozytorium
 
 Repozytorium zawiera:
-- p 
 
+- `README.md` – opis projektu i podsumowanie wyników
+- `Pytania-ankietowe-i-wyniki.md` – lista pytań ankietowych wraz z wariantami odpowiedzi i udziałami procentowymi
+- `prezentacja.pdf` – prezentacja przygotowana na przedmiot „Metodologia nauk dla inżynierów”, zawierająca wykresy i omówienie wyników ankiety
+  
 ## Rezultaty projektu
 
 Projekt pozwolił rozwinąć umiejętności związane z:
